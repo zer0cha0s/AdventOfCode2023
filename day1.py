@@ -19,7 +19,7 @@ for line in file.split('\n'):
 
 print('Part 1:', result)
 
-# Reset variables so they can be used again
+# Reset variables
 result = 0
 total = 0
 
