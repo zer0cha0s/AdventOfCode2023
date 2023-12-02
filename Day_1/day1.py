@@ -1,7 +1,7 @@
 import re
 
 # read input file
-file = open('./input.txt').read()
+file = open('./Day_1/input.txt').read()
 
 # Set vars
 total = 0
